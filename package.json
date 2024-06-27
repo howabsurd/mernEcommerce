@@ -20,6 +20,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.3",
     "nodemailer": "^6.9.14",
+    "react-js-pagination": "^3.0.3",
     "validator": "^13.12.0"
   }
 }
